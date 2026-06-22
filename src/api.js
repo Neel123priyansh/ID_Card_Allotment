@@ -2,5 +2,5 @@ import axios from "axios";
 
 export default axios.create({
     baseURL:
-    "http://localhost:5000/api"
+    "https://id-card-allotment-backend.onrender.com/api"
 });
